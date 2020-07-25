@@ -76,7 +76,7 @@ int key_check(int a, string b)
     }
 }
 
-string encipher(string key, string plaintext) //formula to encipher a string of plaintext by an integer 'key'.
+string encipher(int key, string plaintext) //formula to encipher a string of plaintext by an integer 'key'.
 {
     string ciphertext = plaintext; //ciphertext begins as copy of plaintext.
     int i = 0;
