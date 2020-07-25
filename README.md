@@ -14,3 +14,4 @@ pset1
 
 pset2
 - triangle: This short program takes in three numbers which represent the sides of a triangle. It will tell the user whether the triangle is valid or not based on these lengths.
+- readability: This program takes in text and outputs the grade level of the text.
