@@ -15,3 +15,4 @@ pset1
 pset2
 - triangle: This short program takes in three numbers which represent the sides of a triangle. It will tell the user whether the triangle is valid or not based on these lengths.
 - readability: This program takes in text and outputs the grade level of the text.
+- caesar: This program is used to 'encrypt' text input by the user. A command line argument must be used to give an 'int' which encrypts the text by using this number with the ASCII system for the characters.
